@@ -25,8 +25,8 @@ This is a simple scientific calculator with a graphical user interface (GUI) bui
 - tkinter library (usually included with Python)
 
 ## Screenshots
-[Insert screenshots of your calculator here]
 
+https://github.com/aswinsankarcp/scienific_calculator/blob/main/Screenshot%20(96).png
 ## Contributing
 Contributions are welcome. If you have any suggestions or want to improve this project, feel free to open an issue or submit a pull request.
 
